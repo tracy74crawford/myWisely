@@ -21,7 +21,7 @@ My Wisely is a modern expense tracking and budgeting application designed to hel
 
 **Email:** tracy74crawford@outlook.com
 
-**Website:** My Wisely  
+**Website:** [My Wisely ](https://www.my-wisely.com.co) 
 
 **Bio:** Tracy is a master in coding and repository structuring, with years of experience in building scalable applications. Known for a helping nature and collaborative spirit, Copilot AI thrives on creating tools that empower developers and users alike.
 
